@@ -1,4 +1,9 @@
-<h1 align="center">Hey there! How's it going?🌠</h1>
+<p align="center">
+  <img src="https://github.com/Rudy9025/Rudy9025/blob/main/assets/95328967/0a80ea45-35d1-4c93-b9eb-e5717918802c >
+</p>
+
+
+![Intro](https://github.com/Rudy9025/Rudy9025/assets/95328967/0a80ea45-35d1-4c93-b9eb-e5717918802c)
 
 ###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Protest+Revolution&size=50&pause=1000&color=00F747&random=false&width=1400&height=100&lines=I'm+Rudresh+and+I+thrive+in+the+realm+of+Software+Development%E2%9C%A8)](https://git.io/typing-svg)
