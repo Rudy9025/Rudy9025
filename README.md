@@ -1,5 +1,5 @@
 ###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Protest+Revolution&size=41&pause=1000&color=31F757&center=true&vCenter=true&random=false&width=1200&height=40&lines=I'm+Rudresh+and+I+thrive+in+the+realm+of+Software+Development%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Protest+Revolution&size=41&pause=1000&color=31F757&center=true&vCenter=true&random=false&width=1200&height=55&lines=I'm+Rudresh+and+I+thrive+in+the+realm+of+Software+Development%E2%9C%A8)](https://git.io/typing-svg)
 ###
 <h1  align="left">A little more about me...  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
 
