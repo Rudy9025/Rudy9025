@@ -7,10 +7,10 @@ const Rudy = {
         pronouns: "He" , "Him",
         techStack: {
             languages: ["HTML5", "CSS3", "JavaScript", "TypeScript"],
-            frameworks: ["React", "Next.js", "Express.js", "React Native"],
+            frameworks/Libraries : ["Three.js", "Next.js", "Express.js", "React Native"],
             runtime environments :["Node.js", "Python"],
-            cssTools: ["Bootstrap", "TailwindCSS", "MUI"],
-            deployment: ["Github Pages", "Firebase", "Vercel", "AWS"],
+            Tools: ["Bootstrap", "TailwindCSS", "R3F", "Blender"],
+            deployment: ["Github Pages", "Firebase", "Vercel", "AWS", "render"],
         },
         dataBases: ["MongoDB", "MySQL", "SQLite", "PostgreSQL"],
     },
