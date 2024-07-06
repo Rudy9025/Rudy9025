@@ -5,16 +5,7 @@
 const Rudy = {
         bio: "Hey there! Rudy here 👨🏼‍💻, a self-taught tech stack passionate about SaaS.",
         pronouns: "He" , "Him",
-        techStack: {
-            languages: ["HTML5", "CSS3", "JavaScript", "TypeScript"],
-            frameworks/Libraries : ["Three.js", "Next.js", "Express.js", "React Native"],
-            runtime environments :["Node.js", "Python"],
-            Tools: ["Bootstrap", "TailwindCSS", "R3F", "Blender"],
-            deployment: ["Github Pages", "Firebase", "Vercel", "AWS", "render"],
-        },
-        dataBases: ["MongoDB", "MySQL", "SQLite", "PostgreSQL"],
-    },
-    motto: "Keep it simple and loony ✨",
+        motto: "Keep it simple and loony ✨",
 };
 ```
 
@@ -64,7 +55,7 @@ const Rudy = {
   ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
 
   ---
-  #### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Always up for a chat about web development, check out some of my work on Github!</b> :)</em>
+  #### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Always up for a chat about SaaS development, check out some of my work on Github!</b> :)</em>
 
 
 </div>
