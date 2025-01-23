@@ -3,7 +3,7 @@
 
 ```javascript
 const Rudy = {
-        bio: "Hey there! Rudresh here 👨🏼‍💻, a self-taught tech stack passionate about SaaS.",
+        bio: "Hey there! Rudresh here 👨🏼‍💻",
         pronouns: "He" , "Him",
         motto: "Keep it simple and loony ✨",
 };
